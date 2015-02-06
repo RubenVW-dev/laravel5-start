@@ -1,6 +1,11 @@
 {
+  "name": "",
+  "version": "0.1.0",
   "devDependencies": {
-    "gulp": "^3.8.8",
-    "laravel-elixir": "*"
+    "grunt": "0.4.1",
+    "grunt-contrib-less": "0.8.2",
+    "grunt-contrib-watch": "0.5.3",
+    "grunt-contrib-copy":"*",
+    "grunt-contrib-uglify":"*"
   }
 }

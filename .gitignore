@@ -1,3 +1,11 @@
 /vendor
 /node_modules
 .env
+/node_modules
+/bower_components
+composer.lock
+.DS_Store
+Thumbs.db
+.idea
+/public/js/app.js
+/public/style/css/style.css

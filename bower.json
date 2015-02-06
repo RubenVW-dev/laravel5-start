@@ -1,0 +1,28 @@
+{
+    "name": "DeKorf",
+
+    "version": "0.2.3",
+
+    "authors": [
+    "Ruben Van Wassenhove <rubenvanwassenhove@gmail.com>"
+    ],
+
+    "private": true,
+
+    "dependencies": {
+        "jquery": "1.9",
+        "bootstrap": "3",
+        "respond": "1.4.2",
+        "modernizr": "2.8.3",
+        "underscore": "1.7.0",
+        "flexslider": "8b3766e026926ed199c2118199fda8a3ab7f418b"
+    },
+
+    "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+    ]
+}
